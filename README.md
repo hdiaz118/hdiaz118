@@ -2,8 +2,12 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- <b>PowerShell</b>
+- <b>Zero out</b>
   - https://github.com/hdiaz118/PowerShell-lab/blob/main/README.md
+- <b>Chess Game</b>
+  - https://github.com/hdiaz118/Chess-Game/blob/main/Chess.sln
+- <b>Siem Lab</b>
+  - https://github.com/hdiaz118/Siem-Lab/blob/main/README.md
 
 <h2> Certifcations</h2>
 
